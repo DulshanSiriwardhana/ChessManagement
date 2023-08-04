@@ -1,0 +1,12 @@
+h1{
+    /*text-align-last: center;*/
+    border-width: 50%;
+    border-color: aliceblue;
+    font-size: 200%;
+    color:cadetblue;
+    text-align: center;
+    text-shadow: 10px;
+    text-shadow: crimson;
+    background-color: antiquewhite;
+    background-size: 200%;
+}
